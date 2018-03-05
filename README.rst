@@ -6,11 +6,11 @@ SimpleAciUiLogServer
    :target: https://landscape.io/github/datacenter/SimpleAciUiLogServer/master
    :alt: Code Health
 
-.. image:: https://pypip.in/version/SimpleAciUiLogServer/badge.svg
+.. image:: https://img.shields.io/pypi/v/SimpleAciUiLogServer.svg
     :target: https://pypi.python.org/pypi/SimpleAciUiLogServer/
     :alt: Latest Version
 
-.. image:: https://pypip.in/wheel/SimpleAciUiLogServer/badge.svg
+.. image:: https://img.shields.io/pypi/wheel/SimpleAciUiLogServer.svg
     :target: https://pypi.python.org/pypi/SimpleAciUiLogServer/
     :alt: Wheel Status
 
